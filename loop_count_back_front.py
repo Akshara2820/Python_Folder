@@ -5,21 +5,21 @@
 
 
 
-# user=int(input("enter the no."))
-# sum=1
-# num=user
-# while sum<=6:
-#     if user%2==0:
-#         print(user)
-#     user-=1
-#     sum+=1
+user=int(input("enter the no."))
+sum=1
+num=user
+while sum<=6:
+    if user%2==0:
+        print(user)
+    user-=1
+    sum+=1
 
-# sum=1
-# while sum<=6:
-#     if num%2==1:
-#         print(num)
-#     num+=1
-#     sum+=1
+sum=1
+while sum<=6:
+    if num%2==1:
+        print(num)
+    num+=1
+    sum+=1
 
 
 year=int(input("enter year."))

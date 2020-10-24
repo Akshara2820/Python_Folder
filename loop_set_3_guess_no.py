@@ -18,12 +18,12 @@ while user<=10:
 
 
 
-# guess=5
-# n=int(input("enter no."))
-# while guess!=n:
-#     if n>guess:
-#         print("no. bada hai ")
-#     else:
-#         print("no. chhota hai")
-#     n=int(input("enter"))
-#     print("youu win")
+guess=5
+n=int(input("enter no."))
+while guess!=n:
+    if n>guess:
+        print("no. bada hai ")
+    else:
+        print("no. chhota hai")
+    n=int(input("enter"))
+    print("youu win")

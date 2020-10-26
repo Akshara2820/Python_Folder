@@ -1,8 +1,6 @@
 
 for loop
 
-
-
 num=[50,40,23,70,56,12,18,7]
 s=0
 min=num[s]
@@ -12,9 +10,9 @@ for i in num:
 print(min)
 
 
+
+
 while loop
-
-
 
 num=[50,40,23,70,56,12,18,7]
 l=len(num)

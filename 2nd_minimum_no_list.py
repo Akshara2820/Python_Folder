@@ -14,7 +14,7 @@ a=0
 c=num
 m=0
 while m<l:
-    if mini2>num[m]<=mini1:
+    if mini2>num[m]>mini1:
         mini2=num[m]
     m+=1
 print(mini2)

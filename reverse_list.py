@@ -7,3 +7,14 @@ for i in range(int(l/2)):
 print(place)
 
 
+
+
+
+place=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
+length=(len(place))
+index=0
+while index<length:
+	s=place[length-1]
+	length-=1
+
+	print(s)
